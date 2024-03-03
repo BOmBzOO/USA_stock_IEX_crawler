@@ -8,7 +8,9 @@ __pycache__/
 
 # config
 config.json
-config_b*.sjon
+config.py
+config_b*.json
+download_IEX_*.py
 
 # log
 log/*
